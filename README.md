@@ -1,0 +1,1 @@
+[![buddy pipeline](https://app.buddy.works/abohafezomar/maven/pipelines/pipeline/251282/badge.svg?token=6be52486973111b2813e2a8c496a40fa35510a8b379bef56689f13906ed584f9 "buddy pipeline")](https://app.buddy.works/abohafezomar/maven/pipelines/pipeline/251282)
